@@ -39,7 +39,7 @@ This repository is a comprehensive collection of **131 committed projects**, tut
   <tr align="center">
     <td width="300" valign="middle" align="center">
       <a href="https://dub.sh/brightdata" target="_blank" title="Visit Bright Data">
-        <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" height="35" style="max-width:180px;" alt="Bright Data - Web Data Platform">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Bright_Data.svg" height="35" style="max-width:180px;" alt="Bright Data - Web Data Platform">
       </a>
       <br>
       <sub>
