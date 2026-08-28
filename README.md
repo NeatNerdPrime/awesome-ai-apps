@@ -459,7 +459,7 @@ This project is actively maintained by:
     &nbsp;·&nbsp;
     <a href="https://github.com/shivaylamba">Shivay Lamba</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/Astrodevil">Astrodevil</a>
+    <a href="https://github.com/Astrodevil">Amitesh Anand</a>
   </sub>
 </p>
 
